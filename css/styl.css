@@ -1,0 +1,100 @@
+body {
+	background-color: #003B8D;
+	color: #FFE9BB;
+	border: 0px solid;
+	font-family : Verdana;
+	font-size : smaller;
+}
+ 
+ .motivace {
+	font-family: Verdana;
+	font-size: smaller;
+	font-style : italic;
+}
+
+h1 {
+	font-family : "Times New Roman";
+	font-size : x-large;
+	font-style : normal;
+	font-weight : bold;
+}
+
+p, a, dd, dt, dl, span, th, td  {
+	font-family: Verdana;
+	font-size : 12px;
+}	
+
+td.velkynadpis	{
+	font-family : "Times New Roman";
+	font-size : xx-large;
+	font-weight : bold;
+	color : #FFA531;
+}
+
+a:active 	{text-decoration: underline; color: #FFA531;}
+a:link 		{text-decoration: underline; color: #FFA531;}
+a:visited 	{text-decoration: underline; color: #FFA531;}
+a:hover 	{text-decoration: none;	color: #FFA531;}
+
+a.cervene:active 	{
+	text-decoration: underline;
+	color: #F65700;
+	font-weight : bold;
+}
+a.cervene:link 	    {
+	text-decoration: underline;
+	color: #F65700;
+	font-weight : bolder;
+}
+a.cervene:visited    {
+	text-decoration: underline;
+	color: #F65700;
+	font-weight : bold;
+}
+a.cervene:hover 	{
+	text-decoration: none;
+	color: #F65700;
+	font-weight : bold;
+}
+
+a.zlute:active 	{
+	text-decoration: underline;
+	color: #ECD900;
+	font-weight : bold;
+}
+a.zlute:link 	    {
+	text-decoration: underline;
+	color: #ECD900;
+	font-weight : bold;
+}
+a.zlute:visited {
+	text-decoration: underline;
+	color: #ECD900;
+	font-weight : bold;
+}
+a.zlute:hover 	{
+	text-decoration: none;
+	color: #ECD900;
+	font-weight : bold;
+}
+
+.velkynadpis	{
+	font-family : "Times New Roman";
+	font-size : xx-large;
+	font-weight : bold;
+	color : #FFA531;
+}
+
+.cervena  {
+	font-weight : bold;
+	color: #F65700;
+}
+
+.zluta  {
+	font-weight : bold;
+	color: #ECD900;
+}
+
+.pozor {
+	color: #E33D3D;
+}
